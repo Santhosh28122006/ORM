@@ -46,6 +46,7 @@ class bookadmin(admin.ModelAdmin):
 '''
 # OUTPUT
 ![Screenshot 2024-12-06 223631](https://github.com/user-attachments/assets/8a49de84-a914-4ca3-b3fd-239e3acf44b4)
+![Screenshot 2024-12-06 225524](https://github.com/user-attachments/assets/5a711226-314b-48d3-b1f2-2ddfe0c3236e)
 
 
 
